@@ -1,0 +1,2 @@
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes.UWP\prac_imagenes.UWP.csproj;x86
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\prac_imagenes.csproj;neutral

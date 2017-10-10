@@ -1,0 +1,17 @@
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\prac_imagenes.dll
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\prac_imagenes.pdb
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.csprojResolveAssemblyReference.cache
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.csproj.CoreCompileInputs.cache
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.MainPage.xaml.g.cs
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.App.xaml.g.cs
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.carousel.xaml.g.cs
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.dll
+c:\users\gustavo\source\repos\prac_imagenes\prac_imagenes\prac_imagenes\obj\Debug\prac_imagenes.pdb

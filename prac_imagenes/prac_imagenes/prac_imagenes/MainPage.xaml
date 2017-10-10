@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:prac_imagenes"
+             x:Class="prac_imagenes.MainPage">
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i1.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like1" Clicked="l1_Clicked"></Button>
+                <Button  FontSize="50" Text="👎" x:Name="deslike1" Clicked="d1_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+    
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i2.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like2" Clicked="l2_Clicked"></Button>
+                <Button  FontSize="50" Text="👎" x:Name="deslike2" Clicked="d2_Clicked"></Button>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i3.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like3" Clicked="l3_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike3" Clicked="d3_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i4.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like4" Clicked="l4_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike4" Clicked="d4_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i5.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like5" Clicked="l5_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike5" Clicked="d5_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i6.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like6" Clicked="l6_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike6" Clicked="d6_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i7.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like7" Clicked="l7_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike7" Clicked="d7_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i8.png" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like8" Clicked="l8_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike8" Clicked="d8_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i9.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like9" Clicked="l9_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike9" Clicked="d9_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Vota" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Image Source="i10.jpg" WidthRequest="300" HeightRequest="300"></Image>
+                <Button FontSize="50" Text="👍" x:Name="like10" Clicked="l10_Clicked"></Button>
+                <Button FontSize="50" Text="👎" x:Name="deslike10" Clicked="d10_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <StackLayout>
+                <Label Text="Conteo" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Button FontSize="50" Text="Conteo" x:Name="deslike11" Clicked="Conteo_Clicked"></Button>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+</CarouselPage>
